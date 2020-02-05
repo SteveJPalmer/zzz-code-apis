@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ordersAPI</name>
+    </assembly>
+    <members>
+        <member name="M:WebAPI101.Controllers.OrdersNewController.Get(System.String)">
+             <summary>
+             Get Order based on unique identifier
+             </summary>
+              <remarks>
+             Sample request:
+            
+                 GET /ordernew
+                 {
+                    "id": 1  
+                 }
+             </remarks>
+             <param name="id">Unique identifier</param>
+             <returns>A single order or null</returns>
+             <response code="200">OK - Returns order for given id</response>
+             <response code="404">NotFound - If no matching order found</response> 
+             <response code="403">Forbidden - If forbidden</response>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,45 @@
+C:\work_area\Projects\tissueTypingAPI\ordersAPI\bin\Debug\netcoreapp1.1\ordersAPI.deps.json
+C:\work_area\Projects\tissueTypingAPI\ordersAPI\bin\Debug\netcoreapp1.1\ordersAPI.runtimeconfig.json
+C:\work_area\Projects\tissueTypingAPI\ordersAPI\bin\Debug\netcoreapp1.1\ordersAPI.runtimeconfig.dev.json
+C:\work_area\Projects\tissueTypingAPI\ordersAPI\bin\Debug\netcoreapp1.1\ordersAPI.dll
+C:\work_area\Projects\tissueTypingAPI\ordersAPI\bin\Debug\netcoreapp1.1\ordersAPI.pdb
+C:\work_area\Projects\tissueTypingAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.csprojResolveAssemblyReference.cache
+C:\work_area\Projects\tissueTypingAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.csproj.CoreCompileInputs.cache
+C:\work_area\Projects\tissueTypingAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.AssemblyInfoInputs.cache
+C:\work_area\Projects\tissueTypingAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.AssemblyInfo.cs
+C:\work_area\Projects\tissueTypingAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.dll
+C:\work_area\Projects\tissueTypingAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.pdb
+C:\work_area\Projects\ordersAPI\ordersAPI\bin\Debug\netcoreapp1.1\ordersAPI.deps.json
+C:\work_area\Projects\ordersAPI\ordersAPI\bin\Debug\netcoreapp1.1\ordersAPI.runtimeconfig.json
+C:\work_area\Projects\ordersAPI\ordersAPI\bin\Debug\netcoreapp1.1\ordersAPI.runtimeconfig.dev.json
+C:\work_area\Projects\ordersAPI\ordersAPI\bin\Debug\netcoreapp1.1\ordersAPI.dll
+C:\work_area\Projects\ordersAPI\ordersAPI\bin\Debug\netcoreapp1.1\ordersAPI.pdb
+C:\work_area\Projects\ordersAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.csprojResolveAssemblyReference.cache
+C:\work_area\Projects\ordersAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.csproj.CoreCompileInputs.cache
+C:\work_area\Projects\ordersAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.AssemblyInfoInputs.cache
+C:\work_area\Projects\ordersAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.AssemblyInfo.cs
+C:\work_area\Projects\ordersAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.dll
+C:\work_area\Projects\ordersAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.pdb
+C:\zzz-Code\5-asp.net core\ordersWebAPI\ordersAPI\bin\Debug\netcoreapp1.1\ordersAPI.deps.json
+C:\zzz-Code\5-asp.net core\ordersWebAPI\ordersAPI\bin\Debug\netcoreapp1.1\ordersAPI.runtimeconfig.json
+C:\zzz-Code\5-asp.net core\ordersWebAPI\ordersAPI\bin\Debug\netcoreapp1.1\ordersAPI.runtimeconfig.dev.json
+C:\zzz-Code\5-asp.net core\ordersWebAPI\ordersAPI\bin\Debug\netcoreapp1.1\ordersAPI.dll
+C:\zzz-Code\5-asp.net core\ordersWebAPI\ordersAPI\bin\Debug\netcoreapp1.1\ordersAPI.pdb
+C:\zzz-Code\5-asp.net core\ordersWebAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.csprojResolveAssemblyReference.cache
+C:\zzz-Code\5-asp.net core\ordersWebAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.csproj.CoreCompileInputs.cache
+C:\zzz-Code\5-asp.net core\ordersWebAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.AssemblyInfoInputs.cache
+C:\zzz-Code\5-asp.net core\ordersWebAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.AssemblyInfo.cs
+C:\zzz-Code\5-asp.net core\ordersWebAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.dll
+C:\zzz-Code\5-asp.net core\ordersWebAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.pdb
+C:\work_area\Training\ordersWebAPI\ordersAPI\bin\Debug\netcoreapp1.1\ordersAPI.deps.json
+C:\work_area\Training\ordersWebAPI\ordersAPI\bin\Debug\netcoreapp1.1\ordersAPI.runtimeconfig.json
+C:\work_area\Training\ordersWebAPI\ordersAPI\bin\Debug\netcoreapp1.1\ordersAPI.runtimeconfig.dev.json
+C:\work_area\Training\ordersWebAPI\ordersAPI\bin\Debug\netcoreapp1.1\ordersAPI.dll
+C:\work_area\Training\ordersWebAPI\ordersAPI\bin\Debug\netcoreapp1.1\ordersAPI.pdb
+C:\work_area\Training\ordersWebAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.csprojResolveAssemblyReference.cache
+C:\work_area\Training\ordersWebAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.csproj.CoreCompileInputs.cache
+C:\work_area\Training\ordersWebAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.AssemblyInfoInputs.cache
+C:\work_area\Training\ordersWebAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.AssemblyInfo.cs
+C:\work_area\Training\ordersWebAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.dll
+C:\work_area\Training\ordersWebAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.pdb
+C:\work_area\Training\ordersWebAPI\ordersAPI\bin\Debug\netcoreapp1.1\orders.xml

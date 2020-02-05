@@ -1,0 +1,11 @@
+C:\work_area\Projects\tissueTypingAPI\tissueTypingAPI\bin\Debug\netcoreapp1.1\tissueTypingAPI.deps.json
+C:\work_area\Projects\tissueTypingAPI\tissueTypingAPI\bin\Debug\netcoreapp1.1\tissueTypingAPI.runtimeconfig.json
+C:\work_area\Projects\tissueTypingAPI\tissueTypingAPI\bin\Debug\netcoreapp1.1\tissueTypingAPI.runtimeconfig.dev.json
+C:\work_area\Projects\tissueTypingAPI\tissueTypingAPI\bin\Debug\netcoreapp1.1\tissueTypingAPI.dll
+C:\work_area\Projects\tissueTypingAPI\tissueTypingAPI\bin\Debug\netcoreapp1.1\tissueTypingAPI.pdb
+C:\work_area\Projects\tissueTypingAPI\tissueTypingAPI\obj\Debug\netcoreapp1.1\tissueTypingAPI.csprojResolveAssemblyReference.cache
+C:\work_area\Projects\tissueTypingAPI\tissueTypingAPI\obj\Debug\netcoreapp1.1\tissueTypingAPI.csproj.CoreCompileInputs.cache
+C:\work_area\Projects\tissueTypingAPI\tissueTypingAPI\obj\Debug\netcoreapp1.1\tissueTypingAPI.AssemblyInfoInputs.cache
+C:\work_area\Projects\tissueTypingAPI\tissueTypingAPI\obj\Debug\netcoreapp1.1\tissueTypingAPI.AssemblyInfo.cs
+C:\work_area\Projects\tissueTypingAPI\tissueTypingAPI\obj\Debug\netcoreapp1.1\tissueTypingAPI.dll
+C:\work_area\Projects\tissueTypingAPI\tissueTypingAPI\obj\Debug\netcoreapp1.1\tissueTypingAPI.pdb
