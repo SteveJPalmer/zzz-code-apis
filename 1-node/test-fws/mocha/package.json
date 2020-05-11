@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "mocha code templates",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha myTest.js",
+    "test-kitten": "mocha -R nyan myTest.js"
+  },
+  "dependencies": {
+    "mocha": "^3.0.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
