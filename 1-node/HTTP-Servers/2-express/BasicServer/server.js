@@ -1,13 +1,27 @@
 // load the express package and create our app
 var express = require('express');
 var app     = express();
+const port = 3000;
 
 // send our index.html file to the user for the home page
 app.get('/', function(req, res) {
 	res.sendFile(__dirname + '/index.html');
 });
 
-// start the server
-app.listen(1337);
+// send hello message
+app.get('/hello', (req, res) => {
+	res.send('Hello World!')
+})
 
-console.log('1337 is the magic port!');
+// start the server
+app.listen(port);
+
+console.log(`Example app listening at http://localhost:${port}`)
+
+// or
+/*
+app.listen(port, () => {
+	console.log(`Example app listening at http://localhost:${port}`)
+})
+*/
+

@@ -1,9 +1,7 @@
 // load express package & create our app
 var express = require('express');
 var app     = express();
-
-// set  port
-var port    = 1337;
+var port    = 1337;     // set  port
 
 // STATIC Files
 // ======================================
@@ -14,7 +12,8 @@ var port    = 1337;
 
 // ROUTES
 // ======================================
-  // basic technique of defining routes right on our app
+  // ---------------------------------------------------------
+  // basic technique of defining routes right on our express app obj
   // basic GET route for home page
   app.get('/', function(req, res) {
     res.sendFile(__dirname + '/index.html');
@@ -22,7 +21,7 @@ var port    = 1337;
 
   // basic POST route for home page
   app.post('/', function (req, res) {
-    res.send('POST request to the homepage..');
+    res.send('POST request to homepage..');
   });
 
   // basic GET route for contact page
@@ -30,7 +29,7 @@ var port    = 1337;
     res.send('GET request to Contact Page..');
   });
 
-  // basic routes method - combines for same url
+  // can combine for same url  - via route() method
   app.route('/login')
     // show the form (GET http://localhost:1337/login)
     .get(function(req, res) {
@@ -41,15 +40,20 @@ var port    = 1337;
        console.log('processing');
        res.send('processing the login form!');
      });
+  // ---------------------------------------------------------
 
+
+
+  // ---------------------------------------------------------
   // Router object
   // create routes for admin section
   // get an instance of the router
   var adminRouter = express.Router();
 
+
   // Middleware Routes - will happen on every /admin request
   adminRouter.use(function(req, res, next) {
-    // log each request to console (node console, not browser!)
+    // log each request to console (node console, not browser!) or watch in debug
     console.log(req.method, req.url);
     // proceed with next piece of middleware or continue onto routing
     next();
@@ -58,8 +62,7 @@ var port    = 1337;
   // Middleware Validate Parameters (validate :name)
   adminRouter.param('name', function(req, res, next, name) {
     // do validation
-    //validation code...
-    // log
+    // validation code...
     console.log('doing name validations on ' + name);
     // once validation done, save new item in req
     req.name = name;
@@ -86,6 +89,8 @@ var port    = 1337;
 
   // apply the routes to our app
   app.use('/admin', adminRouter);
+  // ---------------------------------------------------------
+
 
 
 // start the server
