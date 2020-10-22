@@ -6,6 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Cors;
 
 using Newtonsoft.Json;
+using System.Reflection;
+using System.ComponentModel;
 
 namespace WebAPI101.Controllers
 {
@@ -31,19 +33,35 @@ namespace WebAPI101.Controllers
         [EnableCors("myCORSPolicy")]
         public JsonResult Get()
         {
-          /* option 1  - only issue is get excape characters in Javascritp f/e 
-          *             can use js  JSON.parse to string them out on retrieval
-          */
-          //String resp = " { \"orderNo\": \"1002\", " +
-          //              "   \"patientId\" : \"702\" " +
-          //              "   \"clinician\" : \"test clinician 2\" " +
-          //              "   \"source\" : \"test source 2\" " +
-          //              "   \"requestedDate\" : \"2017-02-18\" " +
-          //              "   \"receivedDate\" : \"2017-02-18\" ";
+      /* option 1  - only issue is get excape characters in Javascritp f/e 
+      *             can use js  JSON.parse to string them out on retrieval
+      */
+      //String resp = " { \"orderNo\": \"1002\", " +
+      //              "   \"patientId\" : \"702\" " +
+      //              "   \"clinician\" : \"test clinician 2\" " +
+      //              "   \"source\" : \"test source 2\" " +
+      //              "   \"requestedDate\" : \"2017-02-18\" " +
+      //              "   \"receivedDate\" : \"2017-02-18\" ";
+
+      
+     
+
+    // Using a DependencyProperty as the backing store for MyProperty.  This enables animation, styling, binding, etc...
+    public static readonly DependencyProperty MyPropertyProperty =
+        DependencyProperty.Register("MyProperty", typeof(int), typeof(ownerclass), new PropertyMetadata(0));
 
 
-          //or with verbatim string literal
-          String resp = @" { ""orderNo"": ""1002"", 
+
+
+
+    // Using a DependencyProperty as the backing store for MyProperty.  This enables animation, styling, binding, etc...
+    public static readonly DependencyProperty MyPropertyProperty =
+    DependencyProperty.RegisterAttached("MyProperty", typeof(int), typeof(ownerclass), new PropertyMetadata(0));
+
+
+
+    //or with verbatim string literal
+    String resp = @" { ""orderNo"": ""1002"", 
                           ""patientId"" : ""702"", 
                           ""clinician"" : ""test clinician 2"", 
                           ""source"" : ""test source 2"", 

@@ -43,3 +43,8 @@ C:\work_area\Training\ordersWebAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.A
 C:\work_area\Training\ordersWebAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.dll
 C:\work_area\Training\ordersWebAPI\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.pdb
 C:\work_area\Training\ordersWebAPI\ordersAPI\bin\Debug\netcoreapp1.1\orders.xml
+C:\zzz-code-apis\2-asp.net-core\projects\ordersWebAPI-withSwagger\ordersAPI\bin\Debug\netcoreapp1.1\orders.xml
+C:\zzz-code-apis\2-asp.net-core\projects\ordersWebAPI-withSwagger\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.csprojAssemblyReference.cache
+C:\zzz-code-apis\2-asp.net-core\projects\ordersWebAPI-withSwagger\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.AssemblyInfoInputs.cache
+C:\zzz-code-apis\2-asp.net-core\projects\ordersWebAPI-withSwagger\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.AssemblyInfo.cs
+C:\zzz-code-apis\2-asp.net-core\projects\ordersWebAPI-withSwagger\ordersAPI\obj\Debug\netcoreapp1.1\ordersAPI.csproj.CoreCompileInputs.cache
